@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java Basics to Advanced:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e07c2dd7-03a9-4e91-a458-eb3d82f814f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g8v2K2JlpGDeFELhgLX36imaYO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FileTree1" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.readwrite" />
+      <recent name="com.collectionschallenge" />
+      <recent name="com.genericschallenge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\web-tests\Java Basics to Advanced\FileTree1" />
+      <recent name="C:\web-tests\Java Basics to Advanced\FileTree\Dir4" />
+      <recent name="C:\web-tests\Java Basics to Advanced\FileTree" />
+      <recent name="C:\web-tests\Java Basics to Advanced\FileTree\Dir2\Dir3" />
+      <recent name="C:\web-tests\Java Basics to Advanced\FileTree\Dir2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Challenge">
+    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regularexpressions.Challenge" />
+      <module name="Java Basics to Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regularexpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.readwrite2.Main10" />
+      <module name="Java Basics to Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.readwrite2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.readwrite2.Main11" />
+      <module name="Java Basics to Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.readwrite2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.readwrite2.Main8" />
+      <module name="Java Basics to Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.readwrite2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.regularexpressions.Runner" />
+      <module name="Java Basics to Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.regularexpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Challenge" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Main11" />
+        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Main8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e07c2dd7-03a9-4e91-a458-eb3d82f814f8" name="Default Changelist" comment="" />
+      <created>1597508825922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597508825922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="128" key="FileChooserDialogImpl" timestamp="1636493824165">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="498" y="128" key="FileChooserDialogImpl/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636493824165" />
+    <state width="1252" height="183" key="GridCell.Tab.0.bottom" timestamp="1634563409377">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="183" key="GridCell.Tab.0.bottom/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1634563409377" />
+    <state width="1252" height="183" key="GridCell.Tab.0.center" timestamp="1634563409376">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="183" key="GridCell.Tab.0.center/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1634563409376" />
+    <state width="1252" height="183" key="GridCell.Tab.0.left" timestamp="1634563409376">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="183" key="GridCell.Tab.0.left/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1634563409376" />
+    <state width="1252" height="183" key="GridCell.Tab.0.right" timestamp="1634563409376">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="183" key="GridCell.Tab.0.right/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1634563409376" />
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1636493324627">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636493324627" />
+    <state x="101" y="10" key="new project wizard" timestamp="1636493832874">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="101" y="10" key="new project wizard/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636493832874" />
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1634434010552">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="381" y="89" width="672" height="678" key="search.everywhere.popup/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1634434010552" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/collectionschallenge/MainChallenge.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mycollections/Theatre1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/abstraction/Runner.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/regularexpressions/Challenge.java</url>
+          <line>6</line>
+          <properties class="com.regularexpressions.Challenge" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

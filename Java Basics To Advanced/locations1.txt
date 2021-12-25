@@ -1,0 +1,6 @@
+0, you are at home
+1, you are at office
+2, you are in the mall
+3, you are at restaurant
+4, you are outside the city
+5, you are in the playground
